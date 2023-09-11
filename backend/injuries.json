@@ -1,0 +1,100 @@
+{
+    "Severe Bleeding": {
+      "Dos": [
+        "Apply direct pressure to the wound with a clean cloth or bandage.",
+        "Elevate the injured area if possible, unless it's a bone injury.",
+        "Use a tourniquet only as a last resort if bleeding cannot be controlled by other means.",
+        "Keep the person lying down to prevent shock."
+      ],
+      "Donts": [
+        "Do not remove a lodged object if it caused the bleeding; stabilize the object and seek medical help.",
+        "Avoid using a tourniquet unless absolutely necessary, as it can cause complications."
+      ]
+    },
+    "Cardiac Arrest": {
+      "Dos": [
+        "Call 911 (or the emergency number in your region) immediately.",
+        "Initiate CPR with chest compressions and rescue breaths."
+      ],
+      "Donts": [
+        "Do not delay calling for professional medical assistance."
+      ]
+    },
+    "Choking": {
+      "Dos": [
+        "Perform the Heimlich maneuver or back blows to dislodge the obstructing object.",
+        "Encourage the victim to cough forcefully if they can."
+      ],
+      "Donts": [
+        "Avoid using excessive force during the Heimlich maneuver, which may cause injury."
+      ]
+    },
+    "Severe Allergic Reactions": {
+      "Dos": [
+        "Administer epinephrine (if available) as prescribed.",
+        "Call 911 immediately.",
+        "Help the person to lie down and elevate their legs to improve blood flow."
+      ],
+      "Donts": [
+        "Do not wait to see if symptoms improve on their own."
+      ]
+    },
+    "Head Injuries": {
+      "Dos": [
+        "Keep the person still and support their head and neck to prevent movement.",
+        "Apply a clean cloth or bandage to any bleeding head wounds."
+      ],
+      "Donts": [
+        "Avoid moving the person unnecessarily, especially if there is a suspicion of spinal injury."
+      ]
+    },
+    "Spinal Cord Injuries": {
+      "Dos": [
+        "Immobilize the spine by keeping the person still and supporting the head and neck.",
+        "Call 911 and wait for professional medical assistance."
+      ],
+      "Donts": [
+        "Avoid attempting to realign the spine or move the person without proper training."
+      ]
+    },
+    "Electric Shock": {
+      "Dos": [
+        "Turn off the power source or disconnect the victim from the electrical source if safe to do so.",
+        "Call 911 immediately.",
+        "Administer CPR if the person is unresponsive."
+      ],
+      "Donts": [
+        "Do not touch the person if they are still in contact with the electrical source."
+      ]
+    },
+    "Burns": {
+      "Dos": [
+        "Cool the burn with running cold water for at least 10 minutes.",
+        "Cover the burn with a clean, non-stick bandage or cloth.",
+        "Seek medical attention for deep burns or burns affecting the airway."
+      ],
+      "Donts": [
+        "Avoid using ice or very cold water, as it may further damage the tissue."
+      ]
+    },
+    "Drowning": {
+      "Dos": [
+        "Perform rescue and remove the person from the water if safe to do so.",
+        "Initiate CPR if the person is unresponsive and not breathing."
+      ],
+      "Donts": [
+        "Do not delay rescue efforts or CPR if needed."
+      ]
+    },
+    "Broken Bones with Complications": {
+      "Dos": [
+        "Immobilize the injured area to prevent further movement.",
+        "Apply a splint or padding to stabilize the broken bone.",
+        "Seek professional medical attention."
+      ],
+      "Donts": [
+        "Avoid attempting to realign the bone unless you are trained to do so."
+      ]
+    }
+  }
+  
